@@ -1,9 +1,26 @@
-package Database;
 
-public class Database 
+private class Database {
+/*Fields
+database;
+password; 
+*/
+private Database()
 {
-	public Database()
-	{
+	
+	
+}
+/*Responsibilities
+getInfo()
+{
+	
+}
+setInfo()
+{
 		
-	}
+}
+*/
+
+/*Collaborations
+*None at this time 
+*/
 }
